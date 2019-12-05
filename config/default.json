@@ -1,0 +1,5 @@
+{
+    "mongo":"mongodb://localhost:27017/notesDB",
+    "mongoURI":"mongodb+srv://bhanu:bhanu123@cluster0-2nqpw.mongodb.net/mtreeAPI?retryWrites=true&w=majority",
+    "jwtSecret": "secret"
+}
